@@ -1,0 +1,21 @@
+.container {
+    background-color: #726ab2;
+    padding: 10px;
+}
+
+.headerContent {
+    display: flex;
+    justify-content: space-between;
+    align-items: center
+}
+
+.headerText  {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.linkStyle  {
+    text-decoration: none;
+    color: #333;
+    margin-left: 10px;
+}
